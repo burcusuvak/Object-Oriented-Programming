@@ -1,0 +1,94 @@
+  ...  WELCOME TO CONNECT4 ...   
+
+S : Only one game 
+M : More than one game 
+Please enter a choice: Enter Height: Enter Width: 
+Player | Computer : 
+Player | Computer : 
+Player | Computer : a b c d 
+. . . . 
+. . . . 
+. . . . 
+. . . . 
+PLAYER : INVALID VALUE Please Enter Again:	
+count_liveCells:  1
+a b c d 
+. . . . 
+. . . . 
+. . . . 
+. . . X 
+
+a b c d 
+. . . . 
+. . . . 
+. . . . 
+O . . X 
+PLAYER : count_liveCells:  3
+a b c d 
+. . . . 
+. . . . 
+X . . . 
+O . . X 
+
+a b c d 
+. . . . 
+. . . . 
+X . . O 
+O . . X 
+PLAYER : count_liveCells:  5
+a b c d 
+. . . . 
+X . . . 
+X . . O 
+O . . X 
+
+a b c d 
+O . . . 
+X . . . 
+X . . O 
+O . . X 
+PLAYER : INVALID VALUE Please Enter Again:	
+INVALID VALUE Please Enter Again:	
+INVALID VALUE Please Enter Again:	
+INVALID VALUE Please Enter Again:	
+INVALID VALUE Please Enter Again:	
+INVALID VALUE Please Enter Again:	
+count_liveCells:  7
+a b c d 
+O . . . 
+X . . . 
+X . . O 
+O . X X 
+
+a b c d 
+O . . . 
+X . . . 
+X . . O 
+O O X X 
+PLAYER : count_liveCells:  9
+a b c d 
+O . . . 
+X . . . 
+X X . O 
+O O X X 
+
+a b c d 
+O . . . 
+X O . . 
+X X . O 
+O O X X 
+PLAYER : count_liveCells:  11
+a b c d 
+O X . . 
+X O . . 
+X X . O 
+O O X X 
+
+a b c d 
+O X . . 
+X O . O 
+X X . O 
+O O X X 
+PLAYER : INVALID VALUE Please Enter Again:	
+INVALID VALUE Please Enter Again:	
+INVALID VALUE Please Enter Again:	

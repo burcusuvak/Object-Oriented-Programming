@@ -1,0 +1,11 @@
+BOY 4
+EN 4
+OYUN_SIRA 2
+OYUN_SEKLI P
+COUNT 2
+TOTAL 16
+abcd
+....
+....
+....
+XO..
